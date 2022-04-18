@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+</style>
+
+*{
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    background-color: paleblue;
+}
+.list *{
+  list-style: none;
+  text-decoration: none;
+  margin-left: 30px;
+  font-size: 10px;
+}
+
+.skill h2{
+  margin-left: 10%;
+}
+.container{
+  background-color:  lightblue;
+}
